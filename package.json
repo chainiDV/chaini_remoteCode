@@ -1,0 +1,12 @@
+{
+  "name": "chaini_remoteCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Chaini",
+  "license": "MIT",
+  "dependencies": {
+    "net": "^1.0.2",
+    "ws": "^7.4.2"
+  }
+}
